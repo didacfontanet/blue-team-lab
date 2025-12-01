@@ -1,24 +1,53 @@
-# Blue Team Lab – Didac Sánchez
+# 🛡️ Didac — Cybersecurity Learning Journey (Blue Team / SOC Track)
 
-Este repositorio documenta mi camino de formación hacia un rol de **SOC Analyst / Blue Team**, con evolución posterior hacia **Cloud Security**.
+Bienvenido a mi repositorio de aprendizaje en ciberseguridad.  
+Aquí documento mi progreso, mis notas, ejercicios prácticos y proyectos centrados en defensa (Blue Team) y en el camino hacia SOC Analyst L1.
 
-### 📌 Contenido del repositorio
-- 📁 **tryhackme/** → Rooms de TryHackMe (SOC Level 1 path) con notas e informes.
-- 📁 **notes/** → Apuntes de cursos y certificaciones (Cisco, Fortinet, SC-900).
-- 📁 **soc-lab/** → Diseño y progresos de mi laboratorio SOC propio (detección de amenazas, logs, SIEM).
+---
 
-### 🎯 Objetivo técnico
-1. Entrar a un puesto de **SOC Analyst L1 / Security Operations**.  
-2. Aprender **detección de amenazas**, análisis de logs, SIEM, hardening y fundamentos de IR.  
-3. Evolucionar hacia **Cloud Security** (Azure/AWS) una vez consolide Blue Team.  
+## 🎯 Objetivo
 
-### 🛠️ Tecnologías que estoy aprendiendo
-- SIEM (Wazuh, ELK, Sentinel)
-- Windows / Linux Hardening
-- Redes y seguridad perimetral
-- Microsoft Security (SC-900 / SC-200)
-- TryHackMe (SOC L1 Path)
+Desarrollar una base sólida en ciberseguridad defensiva, mejorando mis habilidades en:
 
-### 🔗 Contacto / Networking
+- Seguridad de redes  
+- Análisis de logs  
+- Respuesta a incidentes  
+- SIEM  
+- Linux  
+- Fundamentos de malware  
+- MITRE ATT&CK  
 
+Mi objetivo final es alcanzar el rol de **SOC Analyst Level 1**.
+
+---
+
+## 📂 Estructura del repositorio
+
+- **/notes** → notas de cursos, apuntes técnicos y resúmenes importantes.  
+- **/tryhackme** → progreso, rooms completadas y objetivos de práctica.  
+- **/projects** → mini-proyectos y ejercicios prácticos (se irán añadiendo).  
+- **/labs** → laboratorios guiados y ejercicios defensivos (añadiré más adelante).
+
+---
+
+## 🧩 Estado actual
+
+- Completado: *Cisco – Introduction to Cybersecurity*  
+- Configuración inicial del repositorio  
+- Inicio del camino **SOC Level 1** en TryHackMe  
+
+---
+
+## 🚀 Próximos pasos
+
+- Completar las rooms iniciales de defensa en TryHackMe  
+- Crear el primer proyecto defensivo (análisis de logs + detección básica)  
+- Añadir notas técnicas de Linux, redes y seguridad  
+
+---
+
+## 📬 Contacto
+
+Si quieres conectar conmigo:  
+👉 **LinkedIn**: https://www.linkedin.com/in/didac-sf/
 
