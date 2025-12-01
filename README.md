@@ -1,13 +1,24 @@
 # Blue Team Lab – Didac Sánchez
 
-Repositorio donde documento mi camino hacia un rol de **SOC Analyst / Blue Team**.
-Aquí guardo:
+Este repositorio documenta mi camino de formación hacia un rol de **SOC Analyst / Blue Team**, con evolución posterior hacia **Cloud Security**.
 
-- Informes y notas de **TryHackMe (SOC L1 Path)**
-- Apuntes de **Cisco Introduction to Cybersecurity**
-- Apuntes y ejercicios de **Fortinet Training**
-- Diseño de mi laboratorio personal de **SOC / detección de amenazas**
-- Notas de estudio de **Microsoft SC-900**, **SC-200** y seguridad cloud
+### 📌 Contenido del repositorio
+- 📁 **tryhackme/** → Rooms de TryHackMe (SOC Level 1 path) con notas e informes.
+- 📁 **notes/** → Apuntes de cursos y certificaciones (Cisco, Fortinet, SC-900).
+- 📁 **soc-lab/** → Diseño y progresos de mi laboratorio SOC propio (detección de amenazas, logs, SIEM).
 
-Este repo funciona como mi portfolio técnico para trabajos en ciberseguridad (Blue Team, SOC L1 y Cloud Security).
+### 🎯 Objetivo técnico
+1. Entrar a un puesto de **SOC Analyst L1 / Security Operations**.  
+2. Aprender **detección de amenazas**, análisis de logs, SIEM, hardening y fundamentos de IR.  
+3. Evolucionar hacia **Cloud Security** (Azure/AWS) una vez consolide Blue Team.  
+
+### 🛠️ Tecnologías que estoy aprendiendo
+- SIEM (Wazuh, ELK, Sentinel)
+- Windows / Linux Hardening
+- Redes y seguridad perimetral
+- Microsoft Security (SC-900 / SC-200)
+- TryHackMe (SOC L1 Path)
+
+### 🔗 Contacto / Networking
+
 
