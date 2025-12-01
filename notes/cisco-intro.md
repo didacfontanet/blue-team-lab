@@ -1,19 +1,18 @@
-# Cisco Introduction to Cybersecurity – Apuntes (Semana 1)
+# Cisco – Introduction to Cybersecurity (Notas)
 
-## 1. ¿Qué es ciberseguridad?
-Protección de datos, sistemas y redes para evitar accesos no autorizados, interrupciones o daño.
+## Puntos clave aprendidos
 
-## 2. Principios CIA
-- **Confidencialidad**
-- **Integridad**
-- **Disponibilidad**
+- La ciberseguridad se basa en el modelo **CIA**: Confidencialidad, Integridad y Disponibilidad.  
+- El malware incluye virus, gusanos, spyware, adware y ransomware.  
+- Las amenazas internas suelen ser más peligrosas por su acceso privilegiado.  
+- Los ataques DoS y DDoS buscan interrumpir un servicio saturándolo.  
+- La huella digital forma parte de nuestra identidad en línea.  
+- Es importante proteger los dispositivos con contraseñas fuertes, MFA y cifrado.  
+- Los dispositivos IoT son más vulnerables por la falta de actualizaciones.  
+- Los CSIRT gestionan incidentes y mantienen la evidencia y la continuidad.
 
-## 3. Tipos de amenazas vistas hoy
-- Malware (virus, troyanos, ransomware)
-- Ingeniería social (phishing, smishing)
-- Ataques a servicios (DDoS)
+---
 
-## 4. Ideas clave aprendidas
-- Todo sistema es atacable.
-- El usuario humano es el eslabón más débil.
-- La defensa en profundidad es esencial.
+## Estado
+
+✅ Curso completado con badge oficial de Cisco.
